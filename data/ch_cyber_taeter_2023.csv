@@ -1,0 +1,24 @@
+﻿delikt;straftaten;"aufgklaerte_strafdaten
+";aufklaerungsrate;kategorie_straftat;tot_beschul_personen;<10;10-14;15-17;18-19;20-24;25-29;30-34;35-39;40-49;50-59;60-69;70+;s.n.;mann;frau;divers;o.A.
+Phishing;3796;132;3.50%;Cyber Wirtschaftskriminalität;113;0;1;5;9;29;12;16;16;13;9;0;2;1;82;31;0;0
+Hacking: Gewaltsames Eindringen in ein Datenverarbeitungssystem;214;15;7.00%;Cyber Wirtschaftskriminalität;21;0;0;0;0;2;3;7;4;2;1;2;0;0;17;4;0;0
+Hacking: Eindringen in ein Datenverarbeitungssystem mit fremden Zugangsdaten;879;75;8.50%;Cyber Wirtschaftskriminalität;63;0;4;5;1;5;6;6;14;11;9;2;0;0;45;18;0;0
+Malware – Ransomware;252;1;0.40%;Cyber Wirtschaftskriminalität;1;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+Malware – E-Banking Trojaner;38;3;7.90%;Cyber Wirtschaftskriminalität;3;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+Malware – Spyware;13;6;46.20%;Cyber Wirtschaftskriminalität;4;0;0;0;0;0;0;0;2;2;0;0;0;0;3;1;0;0
+Malware – Rogueware/Scareware;163;6;3.70%;Cyber Wirtschaftskriminalität;4;0;0;0;0;1;0;1;1;1;0;0;0;0;4;0;0;0
+Malware – Botnet;10;1;10.00%;Cyber Wirtschaftskriminalität;1;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+DDoS;17;2;11.80%;Cyber Wirtschaftskriminalität;1;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+Cyberbetrug;30331;5678;18.70%;Cyber Wirtschaftskriminalität;2806;3;49;162;162;406;365;340;304;437;305;152;68;4;1863;893;49;1
+Money/Package Mules;3002;1395;46.50%;Cyber Wirtschaftskriminalität;1026;0;5;13;64;124;107;105;85;164;174;120;57;1;615;404;7;0
+Sextortion (money);1696;71;4.20%;Cyber Wirtschaftskriminalität;60;0;6;7;14;9;7;5;1;6;4;1;0;0;54;6;0;0
+Diebstahl von Kryptowährungen;85;8;9.40%;Cyber Wirtschaftskriminalität;12;0;0;0;1;3;2;1;2;2;1;0;0;0;8;4;0;0
+Verbotene Pornografie;2350;2207;93.90%;Cyber Sexualdelikte;1744;7;380;363;98;162;114;104;82;158;131;95;49;0;1565;178;1;0
+Grooming;127;107;84.30%;Cyber Sexualdelikte;65;0;12;4;5;4;8;5;8;6;6;4;3;0;63;2;0;0
+Sextortion (sex);108;50;46.30%;Cyber Sexualdelikte;32;0;4;12;3;5;1;3;1;1;1;0;0;1;31;1;0;0
+Live Streaming;26;26;100.00%;Cyber Sexualdelikte;10;0;0;3;1;2;0;2;1;0;0;0;1;0;10;0;0;0
+Cybersquatting;53;1;1.90%;Cyber Rufschädigung und unlauteres Verhalten;2;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+Cyber-Rufschädigung (Geschäftlich);58;36;62.10%;Cyber Rufschädigung und unlauteres Verhalten;37;0;0;0;0;3;4;12;4;4;5;4;1;0;23;14;0;0
+Cyberbullying/Cybermobbing;614;393;64.00%;Cyber Rufschädigung und unlauteres Verhalten;318;1;39;20;6;16;32;35;37;58;42;23;9;0;204;114;0;0
+Illegaler Handel im Darknet;4;2;50.00%;Darknet;2;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
+Data leaking;3;2;66.70%;Andere;2;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    ;X    
