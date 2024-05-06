@@ -5,77 +5,77 @@ jahr,delikt,taten,aufg_taten,15-29,30-59,>60,mann,frau
 2020,Malware – Ransomware,222,4,1.0,11.0,7.0,17.0,2.0
 2020,Malware – E-Banking Trojaner,83,19,6.0,19.0,19.0,27.0,17.0
 2020,Malware – Spyware,65,8,1.0,19.0,2.0,11.0,11.0
-2020,Malware – Rogueware/Scareware,49,3,1.0,7.0,16.0,15.0,10.0
+2020,Malware – Rogue-/Scareware,49,3,1.0,7.0,16.0,15.0,10.0
 2020,Malware – Botnet,18,3,2.0,3.0,2.0,6.0,1.0
 2020,DDoS,43,4,3.0,4.0,3.0,6.0,4.0
-2020,Cyberbetrug3),16395,6172,2492.0,6583.0,2113.0,6667.0,4575.0
+2020,Cyberbetrug,16395,6172,2492.0,6583.0,2113.0,6667.0,4575.0
 2020,Money/Package Mules,1690,923,229.0,689.0,155.0,677.0,415.0
-2020,Sextortion (money),513,35,155.0,193.0,43.0,321.0,85.0
-2020,Diebstahl von Kryptowährungen,35,5,2.0,17.0,4.0,19.0,4.0
+2020,Sextortion,513,35,155.0,193.0,43.0,321.0,85.0
+2020,Diebstahl von Krypto,35,5,2.0,17.0,4.0,19.0,4.0
 2020,Verbotene Pornografie,2338,2264,47.0,11.0,2.0,32.0,113.0
 2020,Grooming,130,104,12.0,1.0,0.0,14.0,41.0
-2020,Sextortion (sex),109,54,41.0,12.0,3.0,11.0,67.0
+2020,Sextortion,109,54,41.0,12.0,3.0,11.0,67.0
 2020,Live Streaming,35,33,1.0,0.0,0.0,3.0,6.0
 2020,Cybersquatting,24,3,0.0,10.0,2.0,5.0,7.0
-2020,Cyber-Rufschädigung (Geschäftlich),107,59,13.0,50.0,12.0,46.0,29.0
-2020,Cyberbullying/Cybermobbing,1109,851,243.0,409.0,53.0,332.0,433.0
+2020,Cyber-Rufschädigung,107,59,13.0,50.0,12.0,46.0,29.0
+2020,Cyberbullying/-mobbing,1109,851,243.0,409.0,53.0,332.0,433.0
 2021,Phishing,1210,90,125.0,421.0,202.0,387.0,365.0
 2021,Hacking: Gewaltsames Eindringen in ein Datenverarbeitungssystem,324,16,36.0,89.0,25.0,83.0,69.0
 2021,Hacking: Eindringen in ein Datenverarbeitungssystem mit fremden Zugangsdaten,653,93,91.0,210.0,46.0,174.0,178.0
 2021,Malware – Ransomware,340,3,4.0,30.0,10.0,32.0,12.0
 2021,Malware – E-Banking Trojaner,82,10,3.0,23.0,23.0,30.0,19.0
 2021,Malware – Spyware,25,2,1.0,8.0,2.0,6.0,5.0
-2021,Malware – Rogueware/Scareware,61,2,1.0,10.0,21.0,19.0,13.0
+2021,Malware – Rogue-/Scareware,61,2,1.0,10.0,21.0,19.0,13.0
 2021,Malware – Botnet,13,0,1.0,5.0,1.0,4.0,3.0
 2021,DDoS,32,0,0.0,3.0,0.0,0.0,3.0
 2021,Cyberbetrug,20691,6468,3357.0,8257.0,2960.0,8444.0,6184.0
 2021,Money/Package Mules,2113,1217,229.0,582.0,168.0,571.0,429.0
-2021,Sextortion (money),1031,38,343.0,340.0,84.0,670.0,102.0
-2021,Diebstahl von Kryptowährungen,96,1,18.0,40.0,7.0,59.0,6.0
+2021,Sextortion,1031,38,343.0,340.0,84.0,670.0,102.0
+2021,Diebstahl von Krypto,96,1,18.0,40.0,7.0,59.0,6.0
 2021,Verbotene Pornografie,2243,2150,45.0,10.0,1.0,34.0,94.0
 2021,Grooming,141,120,23.0,0.0,0.0,16.0,53.0
-2021,Sextortion (sex),153,86,61.0,13.0,2.0,28.0,80.0
+2021,Sextortion,153,86,61.0,13.0,2.0,28.0,80.0
 2021,Live Streaming,35,34,3.0,0.0,0.0,5.0,5.0
 2021,Cybersquatting,37,1,3.0,15.0,3.0,8.0,13.0
-2021,Cyber-Rufschädigung (Geschäftlich),107,76,10.0,53.0,10.0,46.0,28.0
-2021,Cyberbullying/Cybermobbing,959,642,278.0,403.0,67.0,319.0,462.0
+2021,Cyber-Rufschädigung,107,76,10.0,53.0,10.0,46.0,28.0
+2021,Cyberbullying/-mobbing,959,642,278.0,403.0,67.0,319.0,462.0
 2022,Phishing,2236,141,292.0,737.0,282.0,644.0,671.0
 2022,Hacking: Gewaltsames Eindringen in ein Datenverarbeitungssystem,246,27,18.0,82.0,25.0,73.0,53.0
 2022,Hacking: Eindringen in ein Datenverarbeitungssystem mit fremden Zugangsdaten,796,108,111.0,252.0,81.0,238.0,211.0
 2022,Malware – Ransomware,307,4,5.0,37.0,31.0,52.0,21.0
 2022,Malware – E-Banking Trojaner,49,3,3.0,17.0,13.0,17.0,16.0
 2022,Malware – Spyware,15,3,2.0,3.0,1.0,2.0,4.0
-2022,Malware – Rogueware/Scareware,45,0,2.0,8.0,30.0,18.0,22.0
+2022,Malware – Rogue-/Scareware,45,0,2.0,8.0,30.0,18.0,22.0
 2022,Malware – Botnet,17,0,2.0,5.0,2.0,4.0,5.0
 2022,DDoS,16,2,1.0,2.0,1.0,1.0,3.0
 2022,Cyberbetrug,22207,6686,3659.0,9188.0,3255.0,9460.0,6711.0
 2022,Money/Package Mules,2045,1260,198.0,482.0,141.0,518.0,313.0
-2022,Sextortion (money),1588,54,645.0,389.0,83.0,1047.0,91.0
-2022,Diebstahl von Kryptowährungen,110,6,19.0,47.0,7.0,61.0,12.0
+2022,Sextortion,1588,54,645.0,389.0,83.0,1047.0,91.0
+2022,Diebstahl von Krypto,110,6,19.0,47.0,7.0,61.0,12.0
 2022,Verbotene Pornografie,2594,2462,45.0,24.0,2.0,59.0,92.0
 2022,Grooming,141,115,8.0,2.0,0.0,4.0,53.0
-2022,Sextortion (sex),65,26,24.0,18.0,1.0,19.0,37.0
+2022,Sextortion,65,26,24.0,18.0,1.0,19.0,37.0
 2022,Live Streaming,20,18,1.0,0.0,0.0,1.0,3.0
 2022,Cybersquatting,71,2,7.0,31.0,7.0,24.0,21.0
-2022,Cyber-Rufschädigung (Geschäftlich),69,45,5.0,34.0,7.0,28.0,19.0
-2022,Cyberbullying/Cybermobbing,707,486,179.0,286.0,32.0,230.0,300.0
+2022,Cyber-Rufschädigung,69,45,5.0,34.0,7.0,28.0,19.0
+2022,Cyberbullying/-mobbing,707,486,179.0,286.0,32.0,230.0,300.0
 2023,Phishing,3796,132,530.0,1345.0,542.0,1188.0,1233.0
 2023,Hacking: Gewaltsames Eindringen in ein Datenverarbeitungssystem,214,15,25.0,52.0,26.0,51.0,54.0
 2023,Hacking: Eindringen in ein Datenverarbeitungssystem mit fremden Zugangsdaten,879,75,135.0,275.0,100.0,274.0,243.0
 2023,Malware – Ransomware,252,1,5.0,21.0,14.0,28.0,12.0
 2023,Malware – E-Banking Trojaner,38,3,7.0,14.0,15.0,19.0,17.0
 2023,Malware – Spyware,13,6,1.0,4.0,1.0,4.0,3.0
-2023,Malware – Rogueware/Scareware,163,6,5.0,35.0,112.0,84.0,68.0
+2023,Malware – Rogue-/Scareware,163,6,5.0,35.0,112.0,84.0,68.0
 2023,Malware – Botnet,10,1,0.0,1.0,0.0,0.0,1.0
 2023,DDoS,17,2,1.0,0.0,0.0,0.0,1.0
 2023,Cyberbetrug,30331,5678,4875.0,12672.0,4984.0,12706.0,9928.0
 2023,Money/Package Mules,3002,1395,170.0,477.0,222.0,504.0,375.0
-2023,Sextortion (money),1696,71,677.0,361.0,109.0,1100.0,84.0
-2023,Diebstahl von Kryptowährungen,85,8,13.0,33.0,6.0,48.0,4.0
+2023,Sextortion,1696,71,677.0,361.0,109.0,1100.0,84.0
+2023,Diebstahl von Krypto,85,8,13.0,33.0,6.0,48.0,4.0
 2023,Verbotene Pornografie,2350,2207,43.0,10.0,1.0,30.0,96.0
 2023,Grooming,127,107,19.0,0.0,0.0,25.0,34.0
-2023,Sextortion (sex),108,50,51.0,4.0,1.0,15.0,62.0
+2023,Sextortion,108,50,51.0,4.0,1.0,15.0,62.0
 2023,Live Streaming,26,26,2.0,0.0,0.0,8.0,5.0
 2023,Cybersquatting,53,1,9.0,22.0,11.0,20.0,22.0
-2023,Cyber-Rufschädigung (Geschäftlich),58,36,3.0,28.0,2.0,19.0,14.0
-2023,Cyberbullying/Cybermobbing,614,393,139.0,242.0,43.0,186.0,272.0
+2023,Cyber-Rufschädigung,58,36,3.0,28.0,2.0,19.0,14.0
+2023,Cyberbullying/-mobbing,614,393,139.0,242.0,43.0,186.0,272.0
